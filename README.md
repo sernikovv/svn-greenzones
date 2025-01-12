@@ -8,4 +8,4 @@ Simple greenzone script
 # [Discord](https://discord.gg/FPks2HQV7A) 
 
 # Config:
-![code](https://github.com/user-attachments/assets/b44eca38-bb6e-4998-97da-92ad9f80361d)
+![code](https://github.com/user-attachments/assets/9f74520f-4001-48ac-a321-7ddd6358d526)
