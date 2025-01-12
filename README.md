@@ -1,6 +1,6 @@
 # dcs-greenzones
 
-Simple greenzone script for all frameworks
+Simple greenzone script
 
 # Dependency
 > [ox_lib](https://github.com/overextended/ox_lib)
