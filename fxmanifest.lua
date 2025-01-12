@@ -10,3 +10,7 @@ shared_scripts {
 } 
 
 client_script 'client/client.lua'
+
+dependency {
+    'ox_lib'
+}
